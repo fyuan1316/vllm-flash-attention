@@ -281,7 +281,7 @@ class NinjaBuildExtension(BuildExtension):
 
 
 PYTORCH_VERSION = "2.4.0"
-MAIN_CUDA_VERSION = "12.1"
+MAIN_CUDA_VERSION = "11.8"
 
 
 def get_version() -> str:
